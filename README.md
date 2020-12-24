@@ -9,4 +9,10 @@ This model positioned the Sun at the center of the Universe, with Earth and the 
 Now, I position the Earth at the center of the Universe, and calculate the relative X and Y positions of the planets.
 
 Take Mercury as an example, You can see the Mercury retrograde frequency and how it happens.
+![](https://github.com/KelvinYang0320/Geocentric-Model-Simulation/blob/main/%E4%B8%8B%E8%BC%89%20(3).png)
+
+We can get the result similar to [representation of geocentrism](https://www.space.fm/astronomy/planetarysystems/geocentricheliocentric.html#gallery-2), often exemplified specifically by the Ptolemaic system.
+| Raw Data | Normalized Data |
+|----------|-----------------|
+|![](https://github.com/KelvinYang0320/Geocentric-Model-Simulation/blob/main/GM2.png)|![](https://github.com/KelvinYang0320/Geocentric-Model-Simulation/blob/main/GM1.png)|
 
